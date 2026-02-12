@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "shampoo（feat. 鈴木愛理）",
+  "base_artist": "ツミキ",
+  "createdAt": "2026-02-12T06:51:02.582976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Shampoo (feat. U-God, Method Man, Tekitha & Dom Pachino)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/01_Black_Shampoo_(feat._U-God,_Method_Man,_Tekitha_&_Dom_Pachino)_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shampoo (feat. Airi Suzuki)",
+      "artist": "ツミキ feat. 鈴木愛理",
+      "has_synced": true,
+      "path": "select/02_Shampoo_(feat._Airi_Suzuki)_ツミキ_feat._鈴木愛理.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "shampoo (feat. 鈴木愛理)",
+      "artist": "ツミキ",
+      "has_synced": true,
+      "path": "select/03_shampoo_(feat._鈴木愛理)_ツミキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "shampoo (feat. 鈴木愛理)",
+      "artist": "ツミキ",
+      "has_synced": false,
+      "path": "select/pl_01_shampoo_(feat._鈴木愛理)_ツミキ.txt"
+    }
+  ]
+}
